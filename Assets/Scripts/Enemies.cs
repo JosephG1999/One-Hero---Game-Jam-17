@@ -3,13 +3,22 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Enemy", menuName = "Scriptable Objects/Create new enemy")]
 public class Enemies : ScriptableObject
 {
+     GameObject GO;
 
-    [SerializeField] string name;
+    [SerializeField] string title;
     [SerializeField] Sprite idle;
-    [SerializeField] Type type1, type2, type3, type4;
-    [SerializeField] int numberOfTypes;
+    [SerializeField] Weakness weakness1, weakness2, weakness3, weakness4;
+    [SerializeField] int numberOfWeaknesses;
+    [SerializeField] bool isAlive;
 
-    public enum Type { None, WeakToSlash, WeakToPierce, WeakToBludgeon, Distractable, Sleepy }
+    public enum Weakness { None, Slash, Pierce, Bludgeon, Distraction, Sleep }
 
-    
+    public Weakness getWeakness1 {  get { return weakness1; } }
+    public Weakness getWeakness2 { get { return weakness2; } }
+    public Weakness getWeakness3 { get { return weakness3; } }
+    public Weakness getWeakness4 { get { return weakness4; } }
+    public int getNumberOfWeaknesses { get { return numberOfWeaknesses; } }
+    public bool getIsAlive { get { return isAlive; } }
+    public string getTitle { get { return title; } }
+    public Sprite getSprite { get { return idle; } }
 }
