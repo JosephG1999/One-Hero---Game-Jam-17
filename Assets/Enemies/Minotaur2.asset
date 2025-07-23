@@ -19,4 +19,6 @@ MonoBehaviour:
   weakness3: 0
   weakness4: 0
   numberOfWeaknesses: 0
-  isAlive: 0
+  isAlive: 1
+  animatorController: {fileID: 0}
+  death: {fileID: 0}
