@@ -12,13 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61789376edb13ce489061b547977f266, type: 3}
   m_Name: Minotaur
   m_EditorClassIdentifier: 
-  title: 
+  title: Minotaur
   idle: {fileID: -3034208377656685755, guid: 3a3acb4e79d10b44b8caa82c20a1cf4c, type: 3}
   weakness1: 1
   weakness2: 0
   weakness3: 0
   weakness4: 0
   numberOfWeaknesses: 0
-  isAlive: 1
-  animatorController: {fileID: 9100000, guid: a7953e6589ef4644389317c03a6b7762, type: 2}
-  death: {fileID: 7400000, guid: 802b736748e42d542bbd12102c225bcf, type: 2}
+  idleAnim: {fileID: 0}
+  deathAnim: {fileID: 0}

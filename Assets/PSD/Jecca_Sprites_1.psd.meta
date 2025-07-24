@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 537a545bae5831c429c4832e1359b73b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7606879755228606928
+    second: Jecca_Sprites_1_0
+  - first:
+      213: 8859181696600533294
+    second: Jecca_Sprites_1_1
+  - first:
+      213: 2252303688836158728
+    second: Jecca_Sprites_1_2
+  - first:
+      213: -5135773271183565881
+    second: Jecca_Sprites_1_3
+  - first:
+      213: 4531909764968232978
+    second: Jecca_Sprites_1_4
+  - first:
+      213: 5043115063432565332
+    second: Jecca_Sprites_1_5
+  - first:
+      213: 8084115212836709941
+    second: Jecca_Sprites_1_6
+  - first:
+      213: -2297965596291752139
+    second: Jecca_Sprites_1_7
+  - first:
+      213: 3787309257719885011
+    second: Jecca_Sprites_1_8
+  - first:
+      213: 8770958435032249751
+    second: Jecca_Sprites_1_9
+  - first:
+      213: -560860864382060040
+    second: Jecca_Sprites_1_10
+  - first:
+      213: -5573149485292842726
+    second: Jecca_Sprites_1_11
+  - first:
+      213: -8912311759981919231
+    second: Jecca_Sprites_1_12
+  - first:
+      213: 2313528547468346228
+    second: Jecca_Sprites_1_13
+  - first:
+      213: -8580724479893327535
+    second: Jecca_Sprites_1_14
+  - first:
+      213: 7438531942212005952
+    second: Jecca_Sprites_1_15
+  - first:
+      213: -4245107927289464415
+    second: Jecca_Sprites_1_16
+  - first:
+      213: 4883942826223217265
+    second: Jecca_Sprites_1_17
+  - first:
+      213: -6153034410263185277
+    second: Jecca_Sprites_1_18
+  - first:
+      213: -3148402886088434641
+    second: Jecca_Sprites_1_19
+  - first:
+      213: -8543482862679552418
+    second: Jecca_Sprites_1_20
+  - first:
+      213: 4465414763146776808
+    second: Jecca_Sprites_1_21
+  - first:
+      213: -8668801538120070638
+    second: Jecca_Sprites_1_22
+  - first:
+      213: 6446502277320374072
+    second: Jecca_Sprites_1_23
+  - first:
+      213: -8398108607996594316
+    second: Jecca_Sprites_1_24
+  - first:
+      213: -9056427914063040828
+    second: Jecca_Sprites_1_25
+  - first:
+      213: -2829886533733803283
+    second: Jecca_Sprites_1_26
+  - first:
+      213: -6583658868157012672
+    second: Jecca_Sprites_1_27
+  - first:
+      213: 8383335478810991323
+    second: Jecca_Sprites_1_28
+  - first:
+      213: 5473940134894219447
+    second: Jecca_Sprites_1_29
+  - first:
+      213: -2305445057703524135
+    second: Jecca_Sprites_1_30
+  - first:
+      213: 514878093138877097
+    second: Jecca_Sprites_1_31
+  - first:
+      213: -2528517349691488000
+    second: Jecca_Sprites_1_32
+  - first:
+      213: 7394694483809259829
+    second: Jecca_Sprites_1_33
+  - first:
+      213: -3080570886685357437
+    second: Jecca_Sprites_1_34
+  - first:
+      213: 2026670033309986700
+    second: Jecca_Sprites_1_35
+  - first:
+      213: -6945125303614650083
+    second: Jecca_Sprites_1_36
+  - first:
+      213: 3839307706458338628
+    second: Jecca_Sprites_1_37
+  - first:
+      213: 5555844953728351077
+    second: Jecca_Sprites_1_38
+  - first:
+      213: -7549905854187369909
+    second: Jecca_Sprites_1_39
+  - first:
+      213: 6944529523928353376
+    second: Jecca_Sprites_1_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1691
+        width: 616
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0d746a2fee6690800000000000000
+      internalID: -7606879755228606928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1663
+        width: 616
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29648aa0d222fa70800000000000000
+      internalID: 8859181696600533294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1802
+        width: 357
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059163954ac14f10800000000000000
+      internalID: 2252303688836158728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1759
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb582c9b611ab8b0800000000000000
+      internalID: -5135773271183565881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_4
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1774
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2183e0f8be394ee30800000000000000
+      internalID: 4531909764968232978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1188
+        width: 463
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452d15d3e6ebcf540800000000000000
+      internalID: 5043115063432565332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_6
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1547
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a67064fb803070800000000000000
+      internalID: 8084115212836709941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1176
+        width: 463
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f16fe177cfb10e0800000000000000
+      internalID: -2297965596291752139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_8
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1535
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc21f034b93f8430800000000000000
+      internalID: 3787309257719885011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1481
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79530d3e934b8b970800000000000000
+      internalID: 8770958435032249751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_10
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9b612f30c6738f0800000000000000
+      internalID: -560860864382060040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 774
+        width: 966
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1118f8221238a2b0800000000000000
+      internalID: -5573149485292842726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1068
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104cdba7cab115480800000000000000
+      internalID: -8912311759981919231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 746
+        width: 26
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738391d4fd4b1020800000000000000
+      internalID: 2313528547468346228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 743
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151b5745c842be880800000000000000
+      internalID: -8580724479893327535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 749
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04071f1f369fa3760800000000000000
+      internalID: 7438531942212005952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 760
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a977b8e4d85615c0800000000000000
+      internalID: -4245107927289464415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 766
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2a5ccf1047c340800000000000000
+      internalID: 4883942826223217265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_18
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 726
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388f185ddc70c9aa0800000000000000
+      internalID: -6153034410263185277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 747
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c52ec8140ae44d0800000000000000
+      internalID: -3148402886088434641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_20
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 740
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e09590a937f6980800000000000000
+      internalID: -8543482862679552418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_21
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 745
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0162c711758fd30800000000000000
+      internalID: 4465414763146776808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_22
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 747
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a4efb2eea32b780800000000000000
+      internalID: -8668801538120070638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 727
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377d6b8aa3967950800000000000000
+      internalID: 6446502277320374072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_24
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 729
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477763357bce37b80800000000000000
+      internalID: -8398108607996594316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_25
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 736
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce27509bca115280800000000000000
+      internalID: -9056427914063040828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 382
+        width: 966
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea9222e0393ab8d0800000000000000
+      internalID: -2829886533733803283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 676
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045a621242522a4a0800000000000000
+      internalID: -6583658868157012672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_28
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 354
+        width: 26
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda557f7337975470800000000000000
+      internalID: 8383335478810991323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 351
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0bf1eec8757fb40800000000000000
+      internalID: 5473940134894219447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 357
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c66e4fe96100e0800000000000000
+      internalID: -2305445057703524135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 368
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5c24d5e6352700800000000000000
+      internalID: 514878093138877097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_32
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 374
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0090a3bfdd6e8ecd0800000000000000
+      internalID: -2528517349691488000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 334
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ddf9447b3f9660800000000000000
+      internalID: 7394694483809259829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_34
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 355
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a85b1a91d9f35d0800000000000000
+      internalID: -3080570886685357437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_35
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fee5458ad202c10800000000000000
+      internalID: 2026670033309986700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_36
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 353
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c87d4555fd9f90800000000000000
+      internalID: -6945125303614650083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_37
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457eda7406f74530800000000000000
+      internalID: 3839307706458338628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 335
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bff1e9c835a1d40800000000000000
+      internalID: 5555844953728351077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_39
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 337
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a058170a8593790800000000000000
+      internalID: -7549905854187369909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jecca_Sprites_1_40
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 344
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a46fdeeccef5060800000000000000
+      internalID: 6944529523928353376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jecca_Sprites_1_0: -7606879755228606928
+      Jecca_Sprites_1_1: 8859181696600533294
+      Jecca_Sprites_1_10: -560860864382060040
+      Jecca_Sprites_1_11: -5573149485292842726
+      Jecca_Sprites_1_12: -8912311759981919231
+      Jecca_Sprites_1_13: 2313528547468346228
+      Jecca_Sprites_1_14: -8580724479893327535
+      Jecca_Sprites_1_15: 7438531942212005952
+      Jecca_Sprites_1_16: -4245107927289464415
+      Jecca_Sprites_1_17: 4883942826223217265
+      Jecca_Sprites_1_18: -6153034410263185277
+      Jecca_Sprites_1_19: -3148402886088434641
+      Jecca_Sprites_1_2: 2252303688836158728
+      Jecca_Sprites_1_20: -8543482862679552418
+      Jecca_Sprites_1_21: 4465414763146776808
+      Jecca_Sprites_1_22: -8668801538120070638
+      Jecca_Sprites_1_23: 6446502277320374072
+      Jecca_Sprites_1_24: -8398108607996594316
+      Jecca_Sprites_1_25: -9056427914063040828
+      Jecca_Sprites_1_26: -2829886533733803283
+      Jecca_Sprites_1_27: -6583658868157012672
+      Jecca_Sprites_1_28: 8383335478810991323
+      Jecca_Sprites_1_29: 5473940134894219447
+      Jecca_Sprites_1_3: -5135773271183565881
+      Jecca_Sprites_1_30: -2305445057703524135
+      Jecca_Sprites_1_31: 514878093138877097
+      Jecca_Sprites_1_32: -2528517349691488000
+      Jecca_Sprites_1_33: 7394694483809259829
+      Jecca_Sprites_1_34: -3080570886685357437
+      Jecca_Sprites_1_35: 2026670033309986700
+      Jecca_Sprites_1_36: -6945125303614650083
+      Jecca_Sprites_1_37: 3839307706458338628
+      Jecca_Sprites_1_38: 5555844953728351077
+      Jecca_Sprites_1_39: -7549905854187369909
+      Jecca_Sprites_1_4: 4531909764968232978
+      Jecca_Sprites_1_40: 6944529523928353376
+      Jecca_Sprites_1_5: 5043115063432565332
+      Jecca_Sprites_1_6: 8084115212836709941
+      Jecca_Sprites_1_7: -2297965596291752139
+      Jecca_Sprites_1_8: 3787309257719885011
+      Jecca_Sprites_1_9: 8770958435032249751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

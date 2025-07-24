@@ -10,15 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61789376edb13ce489061b547977f266, type: 3}
-  m_Name: Minotaur2
+  m_Name: MurderFrog
   m_EditorClassIdentifier: 
-  title: 
-  idle: {fileID: 1329778215637066122, guid: 7d20abb51155d83428f045641b328b24, type: 3}
-  weakness1: 0
-  weakness2: 0
+  title: Murder Frog
+  weakness1: 3
+  weakness2: 4
   weakness3: 0
   weakness4: 0
   numberOfWeaknesses: 0
-  isAlive: 1
-  animatorController: {fileID: 0}
-  death: {fileID: 0}

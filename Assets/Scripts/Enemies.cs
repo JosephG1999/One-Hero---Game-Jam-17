@@ -7,11 +7,8 @@ public class Enemies : ScriptableObject
      GameObject GO;
 
     [SerializeField] string title;
-    [SerializeField] Sprite idle;
     [SerializeField] Weakness weakness1, weakness2, weakness3, weakness4;
     [SerializeField] int numberOfWeaknesses;
-    //[SerializeField] bool isAlive = true;
-    [SerializeField] AnimationClip idleAnim, deathAnim;
 
     public enum Weakness { None, Slash, Pierce, Bludgeon, Distraction, Sleep }
 
@@ -20,9 +17,5 @@ public class Enemies : ScriptableObject
     public Weakness getWeakness3 { get { return weakness3; } }
     public Weakness getWeakness4 { get { return weakness4; } }
     public int getNumberOfWeaknesses { get { return numberOfWeaknesses; } }
-    //public bool getIsAlive { get { return isAlive; } set { isAlive = value; } }
     public string getTitle { get { return title; } }
-    public Sprite getSprite { get { return idle; } }
-    public AnimationClip getIdleAnim { get { return idleAnim; } }
-    public AnimationClip getDeathAnim { get {return deathAnim; } }
 }

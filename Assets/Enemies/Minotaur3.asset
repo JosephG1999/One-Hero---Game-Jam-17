@@ -12,12 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61789376edb13ce489061b547977f266, type: 3}
   m_Name: Minotaur3
   m_EditorClassIdentifier: 
-  title: 
-  idle: {fileID: 2476624961151919387, guid: 7bae256ae98a6564ca4ec8b0e7c0fe06, type: 3}
-  weakness1: 0
-  weakness2: 0
+  title: Yellow Minotaur
+  weakness1: 2
+  weakness2: 5
   weakness3: 0
   weakness4: 0
   numberOfWeaknesses: 0
-  idleAnim: {fileID: 7400000, guid: b355cc17be564904c9f6337f10bcadfb, type: 2}
-  deathAnim: {fileID: 7400000, guid: 50edbba13e6c32c41bd11efe11b74f4c, type: 2}
