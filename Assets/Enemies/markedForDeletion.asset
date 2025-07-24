@@ -10,14 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61789376edb13ce489061b547977f266, type: 3}
-  m_Name: Minotaur
+  m_Name: markedForDeletion
   m_EditorClassIdentifier: 
-  title: Minotaur
-  idle: {fileID: -3034208377656685755, guid: 3a3acb4e79d10b44b8caa82c20a1cf4c, type: 3}
-  weakness1: 1
-  weakness2: 0
+  title: Yellow Minotaur
+  weakness1: 2
+  weakness2: 5
   weakness3: 0
   weakness4: 0
   numberOfWeaknesses: 0
-  idleAnim: {fileID: 0}
-  deathAnim: {fileID: 0}
