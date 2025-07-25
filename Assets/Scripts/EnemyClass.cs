@@ -3,10 +3,10 @@ using UnityEngine;
 public class EnemyClass : MonoBehaviour
 {
     [SerializeField] Enemies enemyStats;
-    [SerializeField] EnemySpawn EnemySpawn;
-    [SerializeField] GameObject EnemySpawnLoaction;
+    [SerializeField] string enemyName;
     void Start()
     {
+        enemyStats.getTitle = enemyName;
         
     }
     void Update()

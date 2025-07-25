@@ -1,11 +1,13 @@
+using TMPro;
 using Unity.VisualScripting;
 using UnityEditorInternal;
 using UnityEngine;
 
 public class EnemySpawn : MonoBehaviour
 {
-    [SerializeField] Enemies enemy1, enemy2, enemy3, currentEnemy;
     [SerializeField] GameObject EnemySpawnLoaction, MurderFrog, CurrentEnemy;
+    [SerializeField] TextMeshProUGUI nametag;
+    [SerializeField] Enemies enemyStats;
     [SerializeField] int i = 0;
     void Start()
     {
@@ -17,9 +19,7 @@ public class EnemySpawn : MonoBehaviour
 
     void Update()
     {
-
-        Enemies[] Enemies = { enemy1, enemy2, enemy3, currentEnemy };
-        currentEnemy = Enemies[i];
+        nametag.text = enemyStats.getTitle;
 
         if (Input.GetKeyDown("space"))
         {
