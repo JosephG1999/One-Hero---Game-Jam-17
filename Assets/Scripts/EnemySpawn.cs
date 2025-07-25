@@ -21,10 +21,7 @@ public class EnemySpawn : MonoBehaviour
     {
         nametag.text = enemyStats.getTitle;
 
-        if (Input.GetKeyDown("space"))
-        {
-            i++;
-        }
+        if (Input.GetKeyDown("space")) { i++; }
         
     }
 }
