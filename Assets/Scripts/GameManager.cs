@@ -9,7 +9,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject EnemySpawnLoaction;
     */
     [SerializeField] Camera battleCam, inventoryCam;
-    [SerializeField] GameObject nametag;
+    [SerializeField] GameObject nametag, weaponSpawn;
+
     void Start()
     {
         //GameObject enemySpace = EnemySpawn.GetComponent<GameObject>();
@@ -20,11 +21,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) || Input.GetMouseButtonDown(1)) 
-        { 
-            fireRay(); 
-            Debug.Log("Mouse input."); 
-        }
 
         if (Input.GetKeyDown(KeyCode.I)) { enterInventory(); }
 
@@ -46,12 +42,4 @@ public class GameManager : MonoBehaviour
 
     }
 
-    public void fireRay()
-    {
-        RaycastHit2D hit = Physics2D.Raycast(inventoryCam.ScreenToWorldPoint(Input.mousePosition), Vector2.zero);
-        if (hit.collider.tag == "Weapon")
-        {
-            Debug.Log("Clicked on a weapon.");
-        }
-    }
 }

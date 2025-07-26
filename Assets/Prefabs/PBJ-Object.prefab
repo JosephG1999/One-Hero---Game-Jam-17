@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7010423637473296029}
   - component: {fileID: 6927790833620516912}
   m_Layer: 0
-  m_Name: PBJ
+  m_Name: PBJ-Object
   m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
