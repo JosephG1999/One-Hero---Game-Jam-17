@@ -19,4 +19,5 @@ public class Enemies : ScriptableObject
     public int getNumberOfWeaknesses { get { return numberOfWeaknesses; } set { numberOfWeaknesses = value; } }
     public string getTitle { get { return title; } set { title = value; } }
 
+
 }
