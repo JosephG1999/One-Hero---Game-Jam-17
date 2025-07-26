@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Buttons : MonoBehaviour
 {
-    public GameObject Target, Button, Prefab;
+    public GameObject Target, Button, Prefab, WeaponClone;
     [SerializeField] GameManager Manager;
     [SerializeField] EnemySpawn EnemySpawn; [SerializeField] Enemies Enemy; //get EnemySpawn script and Enemy script so we can call their functions for weapon interaction
     [SerializeField] Weapons Weapon;
@@ -11,12 +11,14 @@ public class Buttons : MonoBehaviour
     public void weaponSelect() 
     {
         Debug.Log("weapon select");
-        Instantiate(Prefab, Spawn.position, Spawn.rotation);
+        WeaponClone = Instantiate(Prefab, Spawn.position, Spawn.rotation);
         Manager.enterInventory(); //takes us back to battle screen
         Destroy(Target);
         if (Enemy.getWeakness1.ToString() == Weapon.getCondition || Enemy.getWeakness2.ToString() == Weapon.getCondition) 
         {
+            Debug.Log("Inside if statement");
             EnemySpawn.Defeat();
         }
+        //Destroy(WeaponClone);
     }
 }

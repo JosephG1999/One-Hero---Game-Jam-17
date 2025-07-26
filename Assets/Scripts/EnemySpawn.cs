@@ -12,8 +12,7 @@ public class EnemySpawn : MonoBehaviour
     [SerializeField] int i = 0;
     void Start()
     {
-        CurrentEnemy = prefabEnemies[i];
-        Instantiate(CurrentEnemy, transform.position, transform.rotation);
+        CurrentEnemy = Instantiate(prefabEnemies[i], transform.position, transform.rotation);
         nametag.text = enemyStats.getTitle;
     }
 
@@ -22,11 +21,12 @@ public class EnemySpawn : MonoBehaviour
 
     }
 
-    public void Defeat() 
+    public void Defeat()
     {
+        Debug.Log("Inside Defeat");
+        Destroy(CurrentEnemy);
         i++;
-        CurrentEnemy = prefabEnemies[i];
+        CurrentEnemy = Instantiate(prefabEnemies[i], transform.position, transform.rotation);
         nametag.text = enemyStats.getTitle;
-        Instantiate(CurrentEnemy, transform.position, transform.rotation);
     }
 }
