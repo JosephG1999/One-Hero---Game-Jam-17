@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
 
     }
 
-    private void enterInventory() 
+    public void enterInventory() 
     {
         if (!inventoryCam.enabled)
         {
