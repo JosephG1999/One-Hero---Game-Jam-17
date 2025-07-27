@@ -12,8 +12,4 @@ public class EnemyClass : MonoBehaviour
         enemyStats.getWeakness2 = weakness2;
         
     }
-    void Update()
-    {
-        
-    }
 }

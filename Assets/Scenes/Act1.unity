@@ -470,6 +470,7 @@ RectTransform:
   - {fileID: 1527110211}
   - {fileID: 150826622}
   - {fileID: 7616981937000888634}
+  - {fileID: 835219192}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -706,6 +707,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 151028192}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &835219192 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
+  m_PrefabInstance: {fileID: 1209930612}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &952233931
 GameObject:
   m_ObjectHideFlags: 0
@@ -848,15 +854,15 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 405980719}
     m_Modifications:
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.36
+      value: -4.79
       objectReference: {fileID: 0}
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.14
+      value: 2.4799995
       objectReference: {fileID: 0}
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalPosition.z
@@ -868,11 +874,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 373703662538357286, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: m_LocalRotation.z
@@ -995,8 +1001,8 @@ MonoBehaviour:
   enemyStats: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   prefabEnemies:
   - {fileID: 6173673049438752132, guid: e9458ab35c907a540bbabda048e79e7a, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1678482266191430726, guid: f65b9f724701ce54795d890220c5a581, type: 3}
+  - {fileID: 2590314263801312574, guid: 01acd4bcd44fc3545a74245081e1cd4e, type: 3}
   i: 0
 --- !u!212 &1406224843
 SpriteRenderer:
@@ -1500,4 +1506,3 @@ SceneRoots:
   - {fileID: 2086901566}
   - {fileID: 151028192}
   - {fileID: 405980719}
-  - {fileID: 1209930612}

@@ -13,11 +13,11 @@ public class EnemySpawn : MonoBehaviour
     void Start()
     {
         CurrentEnemy = Instantiate(prefabEnemies[i], transform.position, transform.rotation);
-        nametag.text = enemyStats.getTitle;
     }
 
     void Update()
     {
+        nametag.text = enemyStats.getTitle;
 
     }
 
@@ -27,6 +27,5 @@ public class EnemySpawn : MonoBehaviour
         Destroy(CurrentEnemy);
         i++;
         CurrentEnemy = Instantiate(prefabEnemies[i], transform.position, transform.rotation);
-        nametag.text = enemyStats.getTitle;
     }
 }
