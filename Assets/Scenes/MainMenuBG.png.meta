@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8cc280b34fccb9248a5c9c920e493082
+guid: 837459766ce126849a4ba2c4d2266cac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3425861756601976423
-    second: buddy_C1_0
+      213: -5409611486675845757
+    second: MainMenuBG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buddy_C1_0
+      name: MainMenuBG_0
       rect:
         serializedVersion: 2
-        x: 127
-        y: 150
-        width: 308
-        height: 360
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 999b42422e4e470d0800000000000000
-      internalID: -3425861756601976423
+      spriteID: 38d30d3a3033de4b0800000000000000
+      internalID: -5409611486675845757
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 579466240db5a8644b6f8fa7811e288d
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      buddy_C1_0: -3425861756601976423
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

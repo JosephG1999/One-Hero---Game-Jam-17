@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements.Experimental;
 
 public class GameManager : MonoBehaviour
@@ -23,8 +24,7 @@ public class GameManager : MonoBehaviour
     {
 
         if (Input.GetKeyDown(KeyCode.I)) { enterInventory(); }
-
-
+        Restart();
     }
 
     public void enterInventory() 
@@ -40,6 +40,14 @@ public class GameManager : MonoBehaviour
             nametag.SetActive(true);
         }
 
+    }
+
+    public void Restart() 
+    { 
+        if (Input.GetKeyDown(KeyCode.R) )
+        {
+            SceneManager.LoadSceneAsync("mainmenu", LoadSceneMode.Single);
+        }  
     }
 
 }

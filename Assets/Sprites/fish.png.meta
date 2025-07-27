@@ -116,12 +116,12 @@ TextureImporter:
       name: fish_0
       rect:
         serializedVersion: 2
-        x: 218
-        y: 172
-        width: 187
-        height: 281
+        x: 119
+        y: 168
+        width: 286
+        height: 285
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ea5489ebdf6bea3438c1a0e124594ed4
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fish_0: 8966945178157639174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

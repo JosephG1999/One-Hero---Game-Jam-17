@@ -122,12 +122,12 @@ TextureImporter:
       name: Fella_C1_0
       rect:
         serializedVersion: 2
-        x: 167
-        y: 192
-        width: 270
-        height: 291
+        x: 75
+        y: 160
+        width: 384
+        height: 342
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -149,7 +149,7 @@ TextureImporter:
         width: 7
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,7 +171,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b220383b955f52c40a004a18cc76a69c
     internalID: 0
     vertices: []
     indices: 
@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fella_C1_0: 8826952157384109570
+      Fella_C1_1: -3660720357920361336
+      Fella_C1_2: -6232994325099510347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
