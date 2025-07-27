@@ -9,7 +9,7 @@ public class Enemies : ScriptableObject
     [SerializeField] string title;
     [SerializeField] Weakness weakness1, weakness2;
 
-    public enum Weakness { None, Slash, Pierce, Bludgeon, Distraction, Sleep }
+    public enum Weakness { None, Kill, Distraction, Blind }
 
     public Weakness getWeakness1 { get { return weakness1; } set { weakness1 = value; } }
     public Weakness getWeakness2 { get { return weakness2; } set { weakness2 = value; } }

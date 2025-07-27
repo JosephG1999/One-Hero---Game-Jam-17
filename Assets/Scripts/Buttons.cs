@@ -12,7 +12,7 @@ public class Buttons : MonoBehaviour
     {
         Debug.Log("weapon select");
         Weapon.getCondition = WeaponClass.condition;
-        if (Enemy.getWeakness1.ToString() == Weapon.getCondition) 
+        if (Enemy.getWeakness1.ToString() == Weapon.getCondition || Enemy.getWeakness2.ToString() == Weapon.getCondition)
         {
             Debug.Log("IT'S A MATCH");
             EnemySpawn.Defeat();
