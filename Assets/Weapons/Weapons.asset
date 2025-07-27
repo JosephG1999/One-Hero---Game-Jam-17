@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70edbcee600f658479034826e7dc265a, type: 3}
   m_Name: Weapons
   m_EditorClassIdentifier: 
-  title: Sword
-  condition: Slash
+  title: 
+  condition: Distraction

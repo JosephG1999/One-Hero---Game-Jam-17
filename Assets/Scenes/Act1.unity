@@ -910,11 +910,11 @@ PrefabInstance:
       propertyPath: EnemySpawn
       value: 
       objectReference: {fileID: 1406224842}
-    - target: {fileID: 6963795614907892815, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
+    - target: {fileID: 5779675561800142906, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: condition
       value: Distraction
       objectReference: {fileID: 0}
-    - target: {fileID: 6963795614907892815, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
+    - target: {fileID: 5779675561800142906, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
       propertyPath: weaponName
       value: Sammy (sandwich)
       objectReference: {fileID: 0}
@@ -938,7 +938,8 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0.1875
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -994,8 +995,8 @@ MonoBehaviour:
   enemyStats: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   prefabEnemies:
   - {fileID: 6173673049438752132, guid: e9458ab35c907a540bbabda048e79e7a, type: 3}
-  - {fileID: 8904222375142179353, guid: cdf10ac512e5b78468b80d9fe060edfc, type: 3}
-  - {fileID: 2634557579438466207, guid: 500ad3211f9d0e344b31bfb7ef4ac21d, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
   i: 0
 --- !u!212 &1406224843
 SpriteRenderer:
@@ -1473,7 +1474,16 @@ PrefabInstance:
       propertyPath: EnemySpawn
       value: 
       objectReference: {fileID: 1406224842}
-    m_RemovedComponents: []
+    - target: {fileID: 5779675561800142906, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
+      propertyPath: condition
+      value: Slash
+      objectReference: {fileID: 0}
+    - target: {fileID: 5779675561800142906, guid: 839cf4e5f6e3496479d02981b7fe4315, type: 3}
+      propertyPath: weaponName
+      value: Sword
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 0}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

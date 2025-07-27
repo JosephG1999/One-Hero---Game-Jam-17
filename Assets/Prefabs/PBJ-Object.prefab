@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3150830567370136563}
   - component: {fileID: 7010423637473296029}
-  - component: {fileID: 6927790833620516912}
   m_Layer: 0
   m_Name: PBJ-Object
   m_TagString: Weapon
@@ -88,18 +87,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6927790833620516912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8904222375142179353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c0ddef348a3fc6947bf11a3c0c314a56, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weaponStats: {fileID: 11400000, guid: 5a2bc9e10eaeb54448b852a71de0136c, type: 2}
-  weaponName: Sammy (sandwich)
-  condition: Distraction

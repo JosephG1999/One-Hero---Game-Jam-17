@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 373703662538357286}
   - component: {fileID: 7179492189532030473}
-  - component: {fileID: 6963795614907892815}
+  - component: {fileID: 5779675561800142906}
   m_Layer: 0
   m_Name: Weapons-Button
   m_TagString: Weapon
@@ -89,7 +89,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6963795614907892815
+--- !u!114 &5779675561800142906
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -102,8 +102,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponStats: {fileID: 11400000, guid: 5a2bc9e10eaeb54448b852a71de0136c, type: 2}
-  weaponName: Sword
-  condition: Slash
+  weaponName: 
+  condition: 
 --- !u!1 &4442340219905427394
 GameObject:
   m_ObjectHideFlags: 0
@@ -257,6 +257,7 @@ MonoBehaviour:
   EnemySpawn: {fileID: 0}
   Enemy: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   Weapon: {fileID: 11400000, guid: 5a2bc9e10eaeb54448b852a71de0136c, type: 2}
+  WeaponClass: {fileID: 5779675561800142906}
   Spawn: {fileID: 0}
 --- !u!1 &4442424184878788401
 GameObject:
