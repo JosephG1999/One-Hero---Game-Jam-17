@@ -125,5 +125,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyStats: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   enemyName: Gloob Da Alien
-  weakness1: 1
+  weakness1: 3
   weakness2: 0
