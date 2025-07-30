@@ -3,15 +3,18 @@ using UnityEngine;
 public class WeaponClass : MonoBehaviour
 {
     [SerializeField] Weapons weaponStats;
-    public string weaponName, condition;
-    void Start()
-    {
+    [SerializeField] Tooltip tooltip;
+    public string weaponName, condition, description;
 
+    private void OnMouseEnter()
+    {
+        Debug.Log("Mouse Enter");
+        tooltip.ShowTooltip(description);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnMouseExit()
     {
-
+        Debug.Log("Mouse Exit");
+        tooltip.HideTooltip();
     }
 }

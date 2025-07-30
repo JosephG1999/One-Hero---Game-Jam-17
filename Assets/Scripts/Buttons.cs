@@ -19,5 +19,6 @@ public class Buttons : MonoBehaviour
         }
         WeaponClone = Instantiate(Prefab, Spawn.position, Spawn.rotation);
         Manager.enterInventory(); //takes us back to battle screen
+        Destroy(Target);
     }
 }
