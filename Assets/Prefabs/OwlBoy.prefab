@@ -129,7 +129,7 @@ MonoBehaviour:
   enemyStats: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   enemyName: Owl Boy
   description: Owl's are fierce predators but you're fiercererer. If you find yourself
-    without a sword they're eyes are also very sensitive.
+    without a sword their eyes are also very sensitive.
   weakness1: 1
   weakness2: 3
   tooltip: {fileID: 8345490321032814487}

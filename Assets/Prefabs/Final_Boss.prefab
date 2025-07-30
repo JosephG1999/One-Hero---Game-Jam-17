@@ -31,8 +31,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.11, y: -0.55, z: 0.0014089136}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5904995923797342126}
   m_Father: {fileID: 0}
@@ -131,7 +131,7 @@ MonoBehaviour:
   description: A monster from the nightmare realm, World Eater infects worlds with
     madness feeding off the choas before eventually consuming the realm itself. It'll
     take a legendary weapon to defeat this foe.
-  weakness1: 3
+  weakness1: 4
   weakness2: 0
   tooltip: {fileID: 4602158206354458141}
 --- !u!61 &2538517559872355481

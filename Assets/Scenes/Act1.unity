@@ -1832,7 +1832,7 @@ MonoBehaviour:
   - {fileID: 3172727722727158515, guid: c3e916ed5ae5e964abe3cc6a277fafe3, type: 3}
   - {fileID: 8063633676184823330, guid: 21a189dca8c99ff4c8d43619d088ff0f, type: 3}
   - {fileID: 6255510791386393123, guid: 60c8dbc8218c9b5419f5265492ba3b5e, type: 3}
-  - {fileID: 0}
+  - {fileID: 6488969082355122474, guid: 7639f9f77a40d814591c397a937ab37d, type: 3}
   i: 0
 --- !u!212 &1406224843
 SpriteRenderer:
