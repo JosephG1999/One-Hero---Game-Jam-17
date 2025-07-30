@@ -129,8 +129,8 @@ MonoBehaviour:
   enemyStats: {fileID: 11400000, guid: fcb0f917441249e4aa0a3fec61533375, type: 2}
   enemyName: World Eater
   description: A monster from the nightmare realm, World Eater infects worlds with
-    madness feeding off the choas before eventually consuming the realm itself. It'll
-    take a legendary weapon to defeat this foe.
+    madness and feeds off the choas before eventually consuming the realm itself.
+    It'll take a legendary weapon to defeat this foe.
   weakness1: 4
   weakness2: 0
   tooltip: {fileID: 4602158206354458141}

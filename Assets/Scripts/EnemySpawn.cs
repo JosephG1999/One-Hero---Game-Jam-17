@@ -2,6 +2,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEditorInternal;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemySpawn : MonoBehaviour
 {
@@ -25,7 +26,14 @@ public class EnemySpawn : MonoBehaviour
     {
         Debug.Log("Inside Defeat");
         Destroy(CurrentEnemy);
-        i++;
+        if (i < 8)
+        {
+            i++;
+        }
+        else 
+        {
+            SceneManager.LoadSceneAsync("endscreen", LoadSceneMode.Single);
+        }
         CurrentEnemy = Instantiate(prefabEnemies[i], transform.position, transform.rotation);
     }
 }
